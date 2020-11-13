@@ -18,7 +18,7 @@ public class InstaScraper {
 
     private static final ArrayList<String> accs = new ArrayList<>();
     private static HashMap<String, Date> lastPost = new HashMap<>();
-    private static final String channelID = "776660836659101736";
+    private static final String channelID = "CHANNEL ID";
 
     public static void start() {
         accs.add("njitocca");
